@@ -17,3 +17,4 @@ python plt_ens_fits.py
 3. generate figure
 a. line: individual ensemble member
 b. dot:  ensemble mean
+c. the averages of all obs are plotted at the top of pressure level for debugging purpose.
