@@ -1,4 +1,7 @@
 
+load modules:
+source /u/Shun.Liu/loadjedi.sh
+
 run test case:
 python plt_ens_fits.py 
 2021120819_t_rms_hera.png will be generated.
