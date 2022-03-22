@@ -67,8 +67,8 @@ if __name__ == '__main__':
         fname=fldir+'/ensmean'+'/observer_gsi/'+fortfile
         mem="ensmean"
       else:
-        #fname=fldir+'/mem'+str(i).zfill(4)+'/observer_gsi/'+fortfile
-        fname=fldir+'/'+str(i)+'/observer_gsi/'+fortfile
+        fname=fldir+'/mem'+str(i).zfill(4)+'/observer_gsi/'+fortfile
+        #fname=fldir+'/'+str(i)+'/observer_gsi/'+fortfile
         mem=str(i)
       print(fname)
       with open(fname,'r') as f:
