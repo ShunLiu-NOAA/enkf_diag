@@ -1,7 +1,10 @@
 
 run test case:
-python plt_ens_fits.py
+python plt_ens_fits.py 
+2021120819_t_rms_hera.png will be generated.
 
+
+steps to generate your own figure:
 
 1. modify config_ens_fits.yaml
 
