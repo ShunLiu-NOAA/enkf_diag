@@ -1,0 +1,13 @@
+
+run test case:
+python plt_ens_fits.py
+
+
+1. modify config_ens_fits.yaml
+
+2. run
+python plt_ens_fits.py
+
+3. generate figure
+a. line: individual ensemble member
+b. dot:  ensemble mean
